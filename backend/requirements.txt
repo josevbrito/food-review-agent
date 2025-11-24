@@ -7,14 +7,15 @@ python-dotenv>=1.0.0
 
 # AI & LangChain
 langchain>=0.1.0
-langchain-openai>=0.0.5
 langchain-community>=0.0.16
 langchain-core>=0.1.20
+langchain-groq>=0.0.1
+sentence-transformers>=2.3.0
 
 # Vector Database
 chromadb>=0.4.22
+langchain-chroma
 
 # Data Processing
 pandas>=2.2.0
 numpy>=1.26.0
-tiktoken>=0.5.2 
