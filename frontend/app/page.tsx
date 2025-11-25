@@ -12,7 +12,7 @@ type Message = {
 export default function Home() {
   const [input, setInput] = useState("");
   const [messages, setMessages] = useState<Message[]>([
-    { role: "assistant", content: "SYSTEM ONLINE.\nFoodReview Insights Agent v1.0 conectado.\nBanco de Dados: OLIST BRASIL.\n\nComo posso ajudar hoje?" }
+    { role: "assistant", content: "SYSTEM ONLINE.\nFoodReview Insights Agent v1.0 conectado.\nDataset: SYNTHETIC_DELIVERY_V2.\n\nComo posso ajudar hoje?" }
   ]);
   const [isLoading, setIsLoading] = useState(false);
   const messagesEndRef = useRef<HTMLDivElement>(null);
