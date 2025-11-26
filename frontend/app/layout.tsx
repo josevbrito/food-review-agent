@@ -6,9 +6,9 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "FoodReview AI | Intelligent Insights Agent",
-  description: "Autonomous AI Agent powered by Llama 3, LangGraph, and RAG. Extracts strategic insights from iFood customer reviews.",
+  description: "Análise inteligente de reviews de delivery com IA",
   icons: {
-    icon: "/favicon.ico",
+    icon: "/icon.svg",
   },
 };
 
