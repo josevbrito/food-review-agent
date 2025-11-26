@@ -7,6 +7,15 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.109-009688?style=for-the-badge&logo=fastapi)
 ![LangGraph](https://img.shields.io/badge/AI-LangGraph-orange?style=for-the-badge)
 
+
+<br />
+<br />
+
+<img src="./assets/preview.png" alt="Chat do Agente FoodReview" width="100%" style="border-radius: 10px; border: 1px solid #333;">
+
+<br />
+<br />
+
 **Um Agente Autônomo de IA capaz de extrair insights estratégicos de reviews desestruturados.**
 
 </div>

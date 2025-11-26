@@ -10,6 +10,16 @@
 
 **An Autonomous AI Agent capable of extracting strategic insights from unstructured customer reviews.**
 
+<br />
+<br />
+
+<img src="./assets/preview.png" alt="FoodReview AI Chat" width="100%" style="border-radius: 10px; border: 1px solid #333;">
+
+<br />
+<br />
+
+
+
 </div>
 
 ---
